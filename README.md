@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **Inventory Management App** 
+ 🔭 I’m currently working on a **Proxmox Homelab** 
  
- 🌱 I’m currently learning **AWS**
+ 🌱 I’m currently learning **Docker**
 
- 💬 Ask me about **Java, JavaScript, HTML, CSS... or anything**
+ 💬 Ask me about **Php, JavaScript, Laravel, CSS... or anything**
  
  </div>
  
